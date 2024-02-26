@@ -1,0 +1,22 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1708957545
+default_bus_layout.tres::AudioBusLayout::-1::1606454969::0::1::::<><>::
+default_env.tres::Environment::-1::1606514142::0::1::::<><>::
+icon.png::CompressedTexture2D::8258913333214599540::1606009720::1708697444::1::::<><>::
+::res://art/::1708957399
+body.material::StandardMaterial3D::-1::1605908508::0::1::::<><>::
+eye.material::StandardMaterial3D::-1::1606514142::0::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::2879272248356275849::1580874009::1708697356::1::::<><>::
+mob.glb::PackedScene::6178871254949495963::1606513980::1708697357::1::::<><>::
+mob_body.material::StandardMaterial3D::-1::1606514142::0::1::::<><>::
+mob_eye.material::StandardMaterial3D::-1::1605969815::0::1::::<><>::
+player.glb::PackedScene::2536666396993773034::1606514058::1708697357::1::::<><>::
+pupil.material::StandardMaterial3D::-1::1606514142::0::1::::<><>::
+::res://fonts/::1708957399
+LICENSE.txt::TextFile::-1::1605988452::0::1::::<><>::
+Montserrat-Medium.ttf::FontFile::5045916135564822774::1323702000::1708697444::1::::<><>::
+::res://Godot-3d-tutorial/::1708957446
+::res://Scenes/::1708957290
+main.tscn::PackedScene::945990536322669200::1708957290::0::1::::<><>::uid://cfrr3n8mhqs8j::::res://Scenes/player.tscn
+player.gd::GDScript::-1::1708957290::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::5159962932839075043::1708955930::0::1::::<><>::res://Scenes/player.gd<>uid://bce1r33ropy15::::res://art/player.glb
